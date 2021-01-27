@@ -53,3 +53,6 @@ body{
     left: 0;
     min-height: 300px;
 }
+.smoke-radio:checked+label{
+ border: 2px solid black;
+}
