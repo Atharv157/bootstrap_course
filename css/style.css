@@ -56,3 +56,9 @@ body{
 .smoke-radio:checked+label{
  border: 2px solid black;
 }
+#carouselButton{
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
